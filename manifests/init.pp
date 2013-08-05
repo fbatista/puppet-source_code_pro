@@ -1,6 +1,4 @@
-class font {}
-
-class font::source-code-pro {
+class source_code_pro {
   
   file { 'SourceCodePro-Regular.otf':
     path   => '~/Library/Fonts/SourceCodePro-Regular.otf',
